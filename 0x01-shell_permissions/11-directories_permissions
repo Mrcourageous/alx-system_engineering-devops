@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugoa
+chmod 755 ugoa
