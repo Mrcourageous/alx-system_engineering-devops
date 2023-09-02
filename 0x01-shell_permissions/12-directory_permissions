@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +X* my_dir
+mkdir my_dir chmod +X
