@@ -1,2 +1,2 @@
-#!/bin/bash
-ls | wc
+'#!/bin/bash
+ls 
